@@ -17,7 +17,7 @@ I've got a bunch of projects pinned below, but my current favorite is [Coelho-Di
 * 🚀 Always looking for my next big challenge in the tech world.
 * 📚 Constant learner, currently diving deep into authentication flows and backend integrations.
 
-<p align="left" dir="auto">
+<p align="left" style="display: inline-flex; gap: .25rem;">
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="nofollow">
     <code style="display: inline-block; padding: 0.25rem;"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="20" height="20" style="vertical-align: middle;"></code>
   </a>
