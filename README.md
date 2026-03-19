@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm **Samuel**, a Front-end Developer based in Brazil.
+Meu nome é Samuel , sou um desenvolvedor front-end e moro no Brasil.
 
 I love building interactive and scalable web experiences. Most of my time is spent crafting clean interfaces and solving complex logic problems on the front end.
 
