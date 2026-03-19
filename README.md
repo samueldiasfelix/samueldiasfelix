@@ -18,17 +18,28 @@ I've got a bunch of projects pinned below, but my current favorite is [Coelho-Di
 * 📚 Constant learner, currently diving deep into authentication flows and backend integrations.
 * 
 
-<p align="auto">
-    <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="20" height="20"/></code>
+<p align="auto" dir="auto" style="display: flex; gap: 0.25rem;">
+    <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="nofollow" style="display: flex; justify-content: center; align-items: center;">
+        <code style="display: flex; padding: .25rem;">
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="20" height="20" style="max-width: 100%; height: auto; max-height: 20px;">
+        </code>
     </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="20" height="20"/></code>
+
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="nofollow" style="display: flex; justify-content: center; align-items: center;">
+        <code style="display: flex; padding: .25rem;">
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="20" height="20" style="max-width: 100%; height: auto; max-height: 20px;">
+        </code>
     </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <code><img src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png" alt="vue" width="20" height="20"/></code>
+
+    <a href="https://vuejs.org/" target="_blank" rel="nofollow" style="display: flex; justify-content: center; align-items: center;">
+        <code style="display: flex; padding: .25rem;">
+            <img src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png" alt="vue" width="20" height="20" style="max-width: 100%; height: auto; max-height: 20px;">
+        </code>
     </a>
-    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-        <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="20" height="20"/></code>
+
+    <a href="https://nodejs.org/" target="_blank" rel="nofollow" style="display: flex; justify-content: center; align-items: center;">
+        <code style="display: flex; padding: .25rem;">
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="20" height="20" style="max-width: 100%; height: auto; max-height: 20px;">
+        </code>
     </a>
 </p>
