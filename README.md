@@ -10,7 +10,7 @@ Minha principal pilha de tecnologias é Vue.js, TypeScript e Node.js. Sou um gra
 
 Estou em busca da minha primeira oportunidade profissional. Se quiser trocar uma ideia sobre desenvolvimento, me chame no LinkedIn!
 
-**Tecnologias que uso:**
+**Tecnologias que domino:**
 
 <p align="left">
     <code><a href="https://developer.mozilla.org/docs/Web/HTML"><img width="20" height="20" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a></code>
