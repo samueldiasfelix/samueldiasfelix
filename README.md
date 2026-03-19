@@ -8,8 +8,6 @@ Se eu tiver uma ideia para uma ferramenta ou um jogo, provavelmente passarei a n
 
 Minha principal pilha de tecnologias é Vue.js , TypeScript e Node.js. Sou um grande fã de código limpo e uso ferramentas como o Biome para manter meus projetos organizados e seguindo as melhores práticas.
 
-I've got a bunch of projects pinned below, but my current favorite is [Coelho-Digital](SUA_URL_DO_GITHUB_AQUI), a web game where I'm implementing full OAuth2 authentication and real-time progress saving.
-
 **Tecnologias:**
 
 <p align="left">
