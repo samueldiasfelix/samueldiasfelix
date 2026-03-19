@@ -1,10 +1,10 @@
 # Olá! 👋
 
-Sou Samuel, desenvolvedor front-end apaixonado por construir experiências web que funcionam bem e fazem sentido para quem usa.
+Sou Samuel, desenvolvedor com foco em Front-end, apaixonado por construir aplicações web eficientes e com excelente experiência de usuário.
 
-Trabalho com Vue.js, TypeScript e Node.js, sempre buscando escrever código limpo, resolver problemas com clareza e entregar interfaces de qualidade.
+Trabalho no ecossistema JavaScript, utilizando Vue.js, TypeScript e Node.js. Tenho um forte compromisso com boas práticas, priorizando sempre a entrega de código limpo, arquiteturas organizadas e resolução clara de problemas.
 
-Estou em busca da minha primeira oportunidade profissional e gosto de conversar sobre projetos, ideias e boas soluções.
+Estou aberto a novos desafios profissionais e adoro trocar ideias sobre projetos, tecnologia e soluções inovadoras.
 
 **Tecnologias que domino:**
 
