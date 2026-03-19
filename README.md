@@ -17,17 +17,9 @@ I've got a bunch of projects pinned below, but my current favorite is [Coelho-Di
 * 🚀 Always looking for my next big challenge in the tech world.
 * 📚 Constant learner, currently diving deep into authentication flows and backend integrations.
 
-<p align="left" style="display: inline-flex; gap: .25rem;">
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="nofollow">
-    <code style="display: inline-block; padding: 0.25rem;"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="20" height="20" style="vertical-align: middle;"></code>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="nofollow">
-    <code style="display: inline-block; padding: 0.25rem;"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="20" height="20" style="vertical-align: middle;"></code>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="nofollow">
-    <code style="display: inline-block; padding: 0.25rem;"><img src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png" alt="vue" width="20" height="20" style="vertical-align: middle;"></code>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="nofollow">
-    <code style="display: inline-block; padding: 0.25rem;"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="20" height="20" style="vertical-align: middle;"></code>
-  </a>
+<p dir="auto">
+    <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://developer.mozilla.org/docs/Web/JavaScript"><img width="20" height="20" draggable="false" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
+    <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.typescriptlang.org/"><img width="20" height="20" draggable="false" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a></code>
+    <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"><img width="20" height="20" draggable="false" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a></code>
+    <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://nodejs.org/"><img width="20" height="20" draggable="false" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
 </p>
