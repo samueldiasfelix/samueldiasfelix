@@ -17,6 +17,7 @@ I've got a bunch of projects pinned below, but my current favorite is [Coelho-Di
     <code><a href="https://developer.mozilla.org/docs/Web/CSS"><img width="20" height="20" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
     <code><a href="https://developer.mozilla.org/docs/Web/JavaScript"><img width="20" height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
     <code><a href="https://www.typescriptlang.org/"><img width="20" height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a></code>
-    <code><a href="https://vuejs.org/"><img width="20" height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a></code>
+     <code><a href="https://www.typescriptlang.org/"><img width="20" height="20" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a></code>
+    <code><a href="https://vuejs.org/"><img width="20" height="20" alt="vuejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></a></code>
     <code><a href="https://nodejs.org/"><img width="20" height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
 </p>
