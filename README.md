@@ -6,7 +6,7 @@ Adoro criar experiências web interativas e escaláveis. Passo a maior parte do 
 
 Se eu tiver uma ideia para uma ferramenta ou um jogo, provavelmente passarei a noite programando até que esteja pronto.
 
-Minha principal pilha de tecnologias é Vue.js , TypeScript e Node.js. Sou um grande fã de código limpo e uso ferramentas como o Biome para manter meus projetos organizados e seguindo as melhores práticas.
+Minha principal pilha de tecnologias é Vue.js, TypeScript e Node.js. Sou um grande fã de código limpo e uso ferramentas como o Biome para manter meus projetos organizados e seguindo as melhores práticas.
 
 Estou em busca da minha primeira oportunidade profissional. Se quiser trocar uma ideia sobre desenvolvimento, me chame no LinkedIn!
 
