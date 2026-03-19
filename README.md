@@ -1,14 +1,10 @@
 # Olá! 👋
 
-Meu nome é Samuel , sou um desenvolvedor front-end e moro no Brasil.
+Sou Samuel, desenvolvedor front-end apaixonado por construir experiências web que funcionam bem e fazem sentido para quem usa.
 
-Adoro criar experiências web interativas e escaláveis. Passo a maior parte do meu tempo desenvolvendo interfaces intuitivas e resolvendo problemas complexos de lógica no front-end.
+Trabalho com Vue.js, TypeScript e Node.js, sempre buscando escrever código limpo, resolver problemas com clareza e entregar interfaces de qualidade.
 
-Se eu tiver uma ideia para uma ferramenta ou um jogo, provavelmente passarei a noite programando até que esteja pronto.
-
-Minha principal pilha de tecnologias é Vue.js, TypeScript e Node.js. Sou um grande fã de código limpo e uso ferramentas como o Biome para manter meus projetos organizados e seguindo as melhores práticas.
-
-Estou em busca da minha primeira oportunidade profissional. Se quiser trocar uma ideia sobre desenvolvimento, me chame no LinkedIn!
+Estou em busca da minha primeira oportunidade profissional e gosto de conversar sobre projetos, ideias e boas soluções.
 
 **Tecnologias que domino:**
 
