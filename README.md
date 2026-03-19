@@ -2,11 +2,11 @@
 
 Meu nome é Samuel , sou um desenvolvedor front-end e moro no Brasil.
 
-I love building interactive and scalable web experiences. Most of my time is spent crafting clean interfaces and solving complex logic problems on the front end.
+Adoro criar experiências web interativas e escaláveis. Passo a maior parte do meu tempo desenvolvendo interfaces intuitivas e resolvendo problemas complexos de lógica no front-end.
 
-If I have an idea for a tool or a game, I’ll probably spend the night coding until it’s shipped.
+Se eu tiver uma ideia para uma ferramenta ou um jogo, provavelmente passarei a noite programando até que esteja pronto.
 
-My main tech stack is **Vue.js**, **TypeScript**, and **Node.js**. I’m a big fan of clean code and I use tools like **Biome** to keep my projects organized and following best practices.
+Minha principal pilha de tecnologias é Vue.js , TypeScript e Node.js. Sou um grande fã de código limpo e uso ferramentas como o Biome para manter meus projetos organizados e seguindo as melhores práticas.
 
 I've got a bunch of projects pinned below, but my current favorite is [Coelho-Digital](SUA_URL_DO_GITHUB_AQUI), a web game where I'm implementing full OAuth2 authentication and real-time progress saving.
 
