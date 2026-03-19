@@ -17,9 +17,9 @@ I've got a bunch of projects pinned below, but my current favorite is [Coelho-Di
 * 🚀 Always looking for my next big challenge in the tech world.
 * 📚 Constant learner, currently diving deep into authentication flows and backend integrations.
 
-<p dir="auto">
+<p align="left">
     <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://developer.mozilla.org/docs/Web/JavaScript"><img width="20" height="20" draggable="false" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
     <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.typescriptlang.org/"><img width="20" height="20" draggable="false" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a></code>
-    <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"><img width="20" height="20" draggable="false" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a></code>
+    <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://vuejs.org/"><img width="20" height="20" draggable="false" alt="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a></code>
     <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://nodejs.org/"><img width="20" height="20" draggable="false" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
 </p>
