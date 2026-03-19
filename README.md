@@ -12,11 +12,6 @@ I've got a bunch of projects pinned below, but my current favorite is [Coelho-Di
 
 **Fun Facts:**
 
-* 💻 I'm currently focused on improving my skills in Monorepo architectures.
-* 🕹️ I'm passionate about web game development.
-* 🚀 Always looking for my next big challenge in the tech world.
-* 📚 Constant learner, currently diving deep into authentication flows and backend integrations.
-
 <p align="left">
     <code><a href=""><img width="20" height="20" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a></code>
     <code><a href=""><img width="20" height="20" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
