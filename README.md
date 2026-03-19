@@ -8,7 +8,7 @@ Se eu tiver uma ideia para uma ferramenta ou um jogo, provavelmente passarei a n
 
 Minha principal pilha de tecnologias é Vue.js , TypeScript e Node.js. Sou um grande fã de código limpo e uso ferramentas como o Biome para manter meus projetos organizados e seguindo as melhores práticas.
 
-**Tecnologias:**
+**Tecnologias que uso:**
 
 <p align="left">
     <code><a href="https://developer.mozilla.org/docs/Web/HTML"><img width="20" height="20" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a></code>
