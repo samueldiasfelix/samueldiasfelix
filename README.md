@@ -1,4 +1,4 @@
-# Olá, pessoal! 👋
+# Olá, me chamo Samuel! 👋
 
 Meu nome é Samuel , sou um desenvolvedor front-end e moro no Brasil.
 
