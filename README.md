@@ -2,20 +2,48 @@
 
 Desenvolvedor com foco em Front-end, apaixonado por construir aplicações web eficientes e com excelente experiência de usuário.
 
-Trabalho no ecossistema JavaScript, utilizando Vue.js, TypeScript e Node.js. Tenho um forte compromisso com boas práticas, priorizando sempre a entrega de código limpo, arquiteturas organizadas e resolução clara de problemas.
+Especialista no ecossistema **JavaScript/TypeScript**, utilizando **Vue.js** no front-end e **Node.js** no back-end. Priorizo a entrega de código limpo (Clean Code), arquiteturas organizadas e a implementação de testes automatizados para garantir a qualidade e escalabilidade de cada projeto.
 
-Estou aberto a novos desafios profissionais e adoro trocar ideias sobre projetos, tecnologia e soluções inovadoras.
+Com um olhar atento para o design moderno e performance, estou focado em transformar requisitos de negócio em interfaces intuitivas e APIs robustas. Adoro novos desafios profissionais e trocar ideias sobre tecnologia e soluções inovadoras.
 
-**Tecnologias que domino:**
+---
+
+### 🚀 Tecnologias e Ferramentas
+
+**Front-end & Design**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,astro,tailwind" />
+</p>
+
+**Back-end & Database**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,fastify,python,prisma,sqlite" />
+</p>
+
+**Ferramentas & Qualidade**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vitest,docker,figma" />
+</p>
+
+---
+
+### 📊 Estatísticas
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=samueldiasfelix&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Samuel's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldiasfelix&layout=compact&theme=dark" alt="Top Languages" height="180px" />
+</p>
+
+---
+
+### 📫 Vamos nos conectar?
+
+Seja para discutir um projeto ou apenas falar sobre tech, sinta-se à vontade para entrar em contato:
 
 <p align="left">
-    <code><a href="https://developer.mozilla.org/docs/Web/HTML"><img width="20" height="20" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a></code>
-    <code><a href="https://developer.mozilla.org/docs/Web/CSS"><img width="20" height="20" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
-    <code><a href="https://developer.mozilla.org/docs/Web/JavaScript"><img width="20" height="20" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a></code>
-    <code><a href="https://www.typescriptlang.org/"><img width="20" height="20" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a></code>
-    <code><a href="https://angular.dev/"><img width="20" height="20" alt="angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"></a></code>
-    <code><a href="https://react.dev/"><img width="20" height="20" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a></code>
-    <code><a href="https://vuejs.org/"><img width="20" height="20" alt="vuejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></a></code>
-    <code><a href="https://nodejs.org/"><img width="20" height="20" alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a></code>
-    <code><a href="https://www.python.org/"><img width="20" height="20" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a></code>
+  <a href="mailto:samukaduv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/samueldiasfelix/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
