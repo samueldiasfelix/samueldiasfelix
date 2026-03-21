@@ -17,4 +17,5 @@ Estou aberto a novos desafios profissionais e adoro trocar ideias sobre projetos
     <code><a href="https://react.dev/"><img width="20" height="20" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a></code>
     <code><a href="https://vuejs.org/"><img width="20" height="20" alt="vuejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></a></code>
     <code><a href="https://nodejs.org/"><img width="20" height="20" alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a></code>
+    <code><a href="https://www.python.org/"><img width="20" height="20" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a></code>
 </p>
