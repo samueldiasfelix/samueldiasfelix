@@ -10,7 +10,7 @@ Adoro novos desafios profissionais e trocar ideias sobre tecnologia.
 
 **Tecnologias que domino:**
 <p align="left">
-    <code><a href="https://developer.mozilla.org/docs/Web/HTML"><img width="20" height="20" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a></code>
+    <code><a href="https://developer.mozilla.org/docs/Web/HTML"><img width="32" height="32" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a></code>
     <code><a href="https://developer.mozilla.org/docs/Web/CSS"><img width="20" height="20" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
     <code><a href="https://developer.mozilla.org/docs/Web/JavaScript"><img width="20" height="20" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a></code>
     <code><a href="https://www.typescriptlang.org/"><img width="20" height="20" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a></code>
