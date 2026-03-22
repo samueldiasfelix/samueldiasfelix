@@ -19,4 +19,5 @@ Adoro novos desafios profissionais e trocar ideias sobre tecnologia.
     <code><a href="https://vuejs.org/"><img width="24" height="24" alt="vuejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></a></code>
     <code><a href="https://nodejs.org/"><img width="24" height="24" alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a></code>
     <code><a href="https://nodejs.org/"><img width="24" height="24" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a></code>
+    <code><a href="https://nodejs.org/"><img width="24" height="24" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a></code>
 </p>
