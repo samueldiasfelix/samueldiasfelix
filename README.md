@@ -6,7 +6,7 @@ Especialista no ecossistema JavaScript/TypeScript, utilizo **Vue.js** no front-e
 
 Adoro novos desafios profissionais e trocar ideias sobre tecnologia.
 
-## 🚀 Tecnologias que domino
+## Tecnologias que domino:
 
 <p align="left">
     <code><a href="https://developer.mozilla.org/docs/Web/HTML"><img width="24" height="24" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a></code>
