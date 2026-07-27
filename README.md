@@ -1,6 +1,6 @@
 # Olá, me chamo Samuel! 👋
 
-Sou Desenvolvedor Full Stack, apaixonado por tecnologia desde cedo. Construo aplicações web eficientes com foco em uma excelente experiência do usuário.
+Sou Desenvolvedor Full Stack, apaixonado por tecnologia. Construo aplicações web eficientes com foco em uma excelente experiência do usuário.
 
 Especialista no ecossistema JavaScript/TypeScript, utilizo **Vue.js** no front-end e **Node.js** no back-end na maioria dos meus projetos. Priorizo código limpo, **arquiteturas bem organizadas** e testes automatizados para garantir a qualidade.
 
