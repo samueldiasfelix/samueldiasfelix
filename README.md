@@ -19,7 +19,7 @@ Adoro novos desafios profissionais e trocar ideias sobre tecnologia.
     <code><a href="https://www.php.net/"><img width="24" height="24" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a></code>
     <code><a href="https://laravel.com/"><img width="24" height="24" alt="laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"></a></code>
     <code><a href="https://vuejs.org/"><img width="24" height="24" alt="vuejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></a></code>
-    <code><a href="https://nuxt.com/"><img width="24" height="24" alt="nuxtjs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg"></a></code>
+    <code><a href="https://nuxt.com/"><img width="24" height="24" alt="nuxtjs" src="https://api.iconify.design/logos/nuxt-icon.svg"></a></code>
     <code><a href="https://react.dev/"><img width="24" height="24" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a></code>
     <code><a href="https://nextjs.org/"><img width="24" height="24" alt="nextjs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></a></code>
 </p>
