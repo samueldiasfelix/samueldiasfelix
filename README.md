@@ -1,6 +1,6 @@
 # Olá, sou o Samuel! 👋
 
-Sou desenvolvedor full stack e apaixonado por tecnologia desde os 14 anos.
+Sou desenvolvedor full stack e apaixonado por tecnologia desde os 14 anos de idade.
 
 Tenho sólida experiência em desenvolvimento web. No dia a dia, sigo boas práticas e convenções para escrever código claro e fácil de manter.
 
