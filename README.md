@@ -1,4 +1,4 @@
-# Opa, me chamo Samuel! 😉
+# Prazer, me chamo Samuel! 👊😉
 
 Sou desenvolvedor full stack e apaixonado por tecnologia desde os meus 14 anos de idade.
 
